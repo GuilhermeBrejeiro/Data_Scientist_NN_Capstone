@@ -41,5 +41,6 @@ Arvato_Project_Workbook.ipynb
 
 ## Results
 The detailed analysis of the results can be read in this Medium post:
+https://medium.com/@gbrejeiro/segmentation-and-predicting-customers-62b434de5a5d
 
 ## Licensing, Authors, Acknowledgements
