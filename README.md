@@ -1,4 +1,4 @@
-# Data_Scientist_NN_Capstone
+# Udacity Data Scientist Capstone Project
 
 # Arvato Customer Segmentation
 
